@@ -42,7 +42,12 @@ public class Question
    {
       return response.equals(answer);
    }
-
+   
+   public boolean addText(String questionText)
+   {
+      text += questiontext;
+   }
+   
    /**
       Displays this question.
    */
