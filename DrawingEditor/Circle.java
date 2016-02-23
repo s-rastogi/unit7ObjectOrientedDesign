@@ -1,20 +1,20 @@
 
 
 /**
- * Write a description of class Triangle here.
+ * Write a description of class Circle here.
  * 
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class Triangle
+public class Circle
 {
     /** description of instance variable x (add comment for each instance variable) */
     private int x;
 
     /**
-     * Default constructor for objects of class Triangle
+     * Default constructor for objects of class Circle
      */
-    public Triangle()
+    public Circle()
     {
         // initialise instance variables
         x = 0;
