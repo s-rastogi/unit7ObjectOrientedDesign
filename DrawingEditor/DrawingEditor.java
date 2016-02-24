@@ -12,7 +12,7 @@ public class DrawingEditor extends JFrame
   public static final int FRAME_HEIGHT = 100;
    
    
-  private JFrame frame;
+
    
   DrawingEditor()
   {
